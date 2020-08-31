@@ -1,5 +1,7 @@
 ## Welcome to my Digital Media Class Portfolio!
 
+![Color Swatch](https://github.com/Mpetilos/Digital-Media-Portfolio-2020/blob/gh-pages/Images/A%20color%20pallette.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Mpetilos/Digital-Media-Portfolio-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
